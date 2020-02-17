@@ -1,0 +1,24 @@
+/* 
+    Document   : css_style
+    Created on : Jan 17, 2013, 4:38:23 PM
+    Author     : m.aliyev
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+    font-family: 'Times New Roman',Times,serif;
+
+}
+
+a:link {text-decoration:none;color: black;} 
+a:visited {text-decoration:none;color: black;}
+a:hover  {text-decoration:none;}   
+a:active  {text-decoration:underline;}  
+
